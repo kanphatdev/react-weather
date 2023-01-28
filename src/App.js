@@ -34,7 +34,7 @@ function App() {
           <div className='col-9 my-2'>
             <TextField
               id="outlined-multiline-flexible"
-              label="search"
+              label="search the country you'd like to know"
               multiline
               maxRows={4}
               fullWidth
